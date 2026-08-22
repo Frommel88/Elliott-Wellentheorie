@@ -1,11 +1,11 @@
-ELLIOTT WAVE ACADEMY – 240 LEKTIONEN
+KORRIGIERTE GITHUB-VERSION
 
-1. ZIP entpacken.
-2. Den kompletten Inhalt auf einen HTTPS-Webhost laden, z. B. GitHub Pages.
-3. Adresse auf dem Samsung in Chrome öffnen.
-4. Chrome-Menü (⋮) -> App installieren / Zum Startbildschirm hinzufügen.
-5. Die App speichert Lernfortschritt lokal und funktioniert nach erstem Laden grundsätzlich offline.
+ZIP entpacken und diese Dateien ins Hauptverzeichnis deines GitHub-Repositories hochladen:
+- index.html
+- manifest.webmanifest
+- sw.js
+- icon-192.png
+- icon-512.png
+- README.txt
 
-Erinnerung:
-In der App eine Uhrzeit wählen und Kalender-Erinnerung erstellen.
-Die .ics-Datei auf dem Samsung öffnen und als täglichen Termin speichern.
+Danach Commit changes, kurz warten und die Website neu öffnen.
